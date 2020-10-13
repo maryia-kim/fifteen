@@ -1,0 +1,213 @@
+{
+    "steps": [
+        {
+            "value": 3,
+            "oldCoords": {
+                "x": 0,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        {
+            "value": 7,
+            "oldCoords": {
+                "x": 1,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "value": 8,
+            "oldCoords": {
+                "x": 1,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        {
+            "value": 12,
+            "oldCoords": {
+                "x": 2,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 3
+            }
+        },
+        {
+            "value": 4,
+            "oldCoords": {
+                "x": 3,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        {
+            "value": 15,
+            "oldCoords": {
+                "x": 3,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 3,
+                "y": 3
+            }
+        },
+        {
+            "value": 11,
+            "oldCoords": {
+                "x": 2,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        {
+            "value": 8,
+            "oldCoords": {
+                "x": 1,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        {
+            "value": 12,
+            "oldCoords": {
+                "x": 1,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        {
+            "value": 4,
+            "oldCoords": {
+                "x": 2,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 3
+            }
+        },
+        {
+            "value": 8,
+            "oldCoords": {
+                "x": 2,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        {
+            "value": 12,
+            "oldCoords": {
+                "x": 1,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        {
+            "value": 7,
+            "oldCoords": {
+                "x": 0,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        {
+            "value": 3,
+            "oldCoords": {
+                "x": 0,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        {
+            "value": 4,
+            "oldCoords": {
+                "x": 1,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        {
+            "value": 8,
+            "oldCoords": {
+                "x": 2,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 1,
+                "y": 3
+            }
+        },
+        {
+            "value": 12,
+            "oldCoords": {
+                "x": 2,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        {
+            "value": 11,
+            "oldCoords": {
+                "x": 3,
+                "y": 2
+            },
+            "newCoords": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        {
+            "value": 15,
+            "oldCoords": {
+                "x": 3,
+                "y": 3
+            },
+            "newCoords": {
+                "x": 3,
+                "y": 2
+            }
+        }
+    ]
+}
